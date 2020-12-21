@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1578679532 source:c:\users\felip\desktop\projetokd\kdtree_finsh\kdtree.c
+	"kdtree.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1578677643 c:\users\felip\desktop\projetokd\kdtree_finsh\kdtree.h
+	<stdlib.h>
+
+1578678499 source:c:\users\felip\desktop\projetokd\kdtree_finsh\main.c
+	"kdtree.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1579102127 source:c:\users\felip\desktop\projetokd(v1)\kdtree_finsh\kdtree.c
+	"kdtree.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1579102564 c:\users\felip\desktop\projetokd(v1)\kdtree_finsh\kdtree.h
+	<stdlib.h>
+
+1579102210 source:c:\users\felip\desktop\projetokd(v1)\kdtree_finsh\main.c
+	"kdtree.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1608535669 source:c:\github\kd-tree\projeto-kd-tree\kdtree.c
+	"kdtree.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1608535837 c:\github\kd-tree\projeto-kd-tree\kdtree.h
+	<stdlib.h>
+
+1608535759 source:c:\github\kd-tree\projeto-kd-tree\main.c
+	"kdtree.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
